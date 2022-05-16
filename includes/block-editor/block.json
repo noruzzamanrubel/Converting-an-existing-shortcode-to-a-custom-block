@@ -1,0 +1,15 @@
+{
+    "apiVersion": 2,
+    "title": "Test Block",
+    "name": "boomdevs/test",
+    "description": "A block that uses a shortcode to render in test mode",
+    "version": "1.0.0",
+    "category": "text",
+    "icon": "editor-alignleft",
+    "attributes": {
+        "title": {
+            "type": "string"
+        }
+    },
+    "editorScript": "file:../../build/index.js"
+}
